@@ -7,6 +7,7 @@
     <groupId>com.velware</groupId>
     <artifactId>ms-arch-demo</artifactId>
     <version>1.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
 
 </project>
